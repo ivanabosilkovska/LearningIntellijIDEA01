@@ -22,6 +22,8 @@ public class HelloWorld {
 
         sayHello("Dame");
 
+        System.out.println("Learning Git...");
+
 
 
     }
