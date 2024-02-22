@@ -24,8 +24,7 @@ public class HelloWorld {
 
         System.out.println("Learning Git...");
 
-
-
+        System.out.println("committing changes using InrelliJ");
     }
 
     // comment
