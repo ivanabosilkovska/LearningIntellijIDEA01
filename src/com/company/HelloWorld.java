@@ -31,6 +31,8 @@ public class HelloWorld {
         System.out.println("test 2");
 
         System.out.println("pushing changes...");
+
+        System.out.println("test3");
     }
 
     // comment
