@@ -26,7 +26,7 @@ public class HelloWorld {
 
         System.out.println("committing changes using InrelliJ");
 
-        System.out.println("test revert");
+        System.out.println("amending...");
     }
 
     // comment
