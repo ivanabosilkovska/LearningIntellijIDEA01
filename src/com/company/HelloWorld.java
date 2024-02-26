@@ -29,6 +29,8 @@ public class HelloWorld {
         System.out.println("amending...test1");
 
         System.out.println("test 2");
+
+        System.out.println("pushing changes...");
     }
 
     // comment
