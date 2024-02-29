@@ -17,6 +17,8 @@ public class LoginTests {
 
         System.out.println("added second test");
 
+        System.out.println("test3");
+
 
 
 
