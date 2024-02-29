@@ -12,6 +12,13 @@ public class LoginTests {
 
         //added new validation
 
+        System.out.println("added one test");
+        //validation
+
+        System.out.println("added second test");
+
+        System.out.println("test3");
+
 
 
 
