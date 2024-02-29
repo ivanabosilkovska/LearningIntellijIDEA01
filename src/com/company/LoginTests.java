@@ -15,6 +15,8 @@ public class LoginTests {
         System.out.println("added one test");
         //validation
 
+        System.out.println("added second test");
+
 
 
 
